@@ -1,5 +1,5 @@
 ﻿using System;
-class GovernmentAgeCheck
+class AgeCheck
 {
     static void Main(string[] args)
     {
