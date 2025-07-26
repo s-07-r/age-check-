@@ -1,0 +1,14 @@
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\bin\Debug\net8.0\AgeCheck.exe
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\bin\Debug\net8.0\AgeCheck.deps.json
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\bin\Debug\net8.0\AgeCheck.runtimeconfig.json
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\bin\Debug\net8.0\AgeCheck.dll
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\bin\Debug\net8.0\AgeCheck.pdb
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\obj\Debug\net8.0\AgeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\obj\Debug\net8.0\AgeCheck.AssemblyInfoInputs.cache
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\obj\Debug\net8.0\AgeCheck.AssemblyInfo.cs
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\obj\Debug\net8.0\AgeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\obj\Debug\net8.0\AgeCheck.dll
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\obj\Debug\net8.0\refint\AgeCheck.dll
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\obj\Debug\net8.0\AgeCheck.pdb
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\obj\Debug\net8.0\AgeCheck.genruntimeconfig.cache
+C:\Users\Sharanya Rakeshi\Desktop\C#\AgeCheck\obj\Debug\net8.0\ref\AgeCheck.dll
